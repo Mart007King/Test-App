@@ -1,0 +1,13 @@
+
+body {
+    background-image: url('/images/abstractjpg.jpg');
+    background-size: cover;     
+    background-repeat: no-repeat; 
+}
+
+.card-lg {
+    max-width: 80%;
+    margin: 3rem auto;
+    height: 500px;
+}
+
